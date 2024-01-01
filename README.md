@@ -4,7 +4,7 @@
 🤖 Experienced in Automation Testing using Selenium with Java.
 💡 Actively learning and exploring new technologies to enhance my development expertise.
 💞️ Open to collaborating on exciting projects that challenge and inspire growth.
-📧 Reach me at sanashd22@gmail.com for any inquiries or opportunities.
+📧 Reach me at sanashd20@gmail.com for any inquiries or opportunities.
 
 <!---
 Sanashd/Sanashd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
